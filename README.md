@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Duy, a full-stack developer and applied deep learning researcher. You can learn more about me at <a href="https://minhduy.vercel.app">minhduy.vercel.app</a>.</p>
+<p>👋 Welcome to my page! </br> I'm Duy 🇻🇳, a full-stack developer and applied machine learning researcher. 🎓 Master’s degree in South Korea 🇰🇷. 💼 Ex-SWE at Zalo (VNG).
 <h3>Things I code with</h3>
 <h4>Web tools</h4>
 <p>
@@ -28,10 +28,9 @@
   <img alt="PyG" src="https://img.shields.io/badge/-PyG-6C4EE3?style=flat-square&logo=pyg&logoColor=white" />
   <img alt="uv" src="https://img.shields.io/badge/-uv-4B4B4B?style=flat-square&logo=uv&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
-<p>Check out my repositories on GitHub for projects and experiments I’m working on.</p>
-<p><a href="https://github.com/zamminhduy123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
+<h3>Need a hand? 🤝</h3>
+<p>I'm open to collaborating on startups, bold ideas, and meaningful projects. Just hola at me and let’s build something great.</p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/zamminhduy123" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/duyngg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://minhduy.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/duyngg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/mindiiy_ng" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://minhduy.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
